@@ -1,0 +1,1 @@
+# collect_article_from_sankei
